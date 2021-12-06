@@ -18,8 +18,6 @@ Links to all my projects:
 
 [**MIDI Piano**](https://tonysn.com/portfolio/piano/piano.html)
 
-[**Simple Form Validation**](#)
-
 [**My Todo List**](https://tonysn.com/portfolio/todolist/todolist.html)
 
 Thanks for surfing my site, anyway :)
