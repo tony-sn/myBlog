@@ -1,0 +1,33 @@
+.carousel {
+    background-image: url("../img/cover.jpg");
+    @extend %background--img;
+    height: 500px;
+    position: relative;
+    .carousel__content {
+        max-width: 500px;
+        position: absolute;
+        top: 50%;
+        left: 12%;
+        transform: translateY(-50%);
+
+        h1 {
+            @include styleText($color-white-0, $fs-2, $fw-1);
+        }
+        p {
+            @include styleText($color-white-0, $fs-3, $fw-0);
+        }
+        .carousel__form {
+            @include styleFormSearch($color-white-0, $color-white-0, $color-white-0, $color-black-light);
+            & .input-group {
+                border-radius: 3px;
+            }
+        }
+    }
+
+    @include responsive("small") {
+        .carousel__content {
+            max-width: 400px;
+            left: 10%;
+        }
+    }
+}

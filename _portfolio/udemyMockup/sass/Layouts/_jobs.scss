@@ -1,0 +1,32 @@
+.jobs {
+    background-color: $color-gray-6;
+    .jobs__content {
+        padding: $pd-1;
+        .row {
+            padding: $pd-0 0;
+            .bd--right {
+                border-right: 1px solid $color-gray-4;
+            }
+        }
+        .jobs__items {
+            max-width: 450px;
+            margin: 0 auto;
+            text-align: center;
+            padding: $pd-3;
+            h2 {
+                font-size: $fs-3 + 1;
+                font-weight: $fw-1;
+            }
+        }
+    }
+
+    @include responsive("medium") {
+        .jobs__content {
+            .row {
+                .bd--right {
+                    border: none;
+                }
+            }
+        }
+    }
+}

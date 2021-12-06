@@ -1,0 +1,17 @@
+.darkMode {
+  .jobs {
+    background-color: $color-dark-6;
+    .jobs__content {
+      .row {
+        .bd--right {
+          border-color: $color-dark-2;
+        }
+      }
+      .jobs__items {
+        h2 {
+          color: $color-dark-5;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+Tony Nguyen:
+  name: "Tony Nguyen"
+  avatar: "assets/images/TonyAvatar.png"
+  bio: "A self-taught **programmer**."
+  location: "Melbourne"
+  # email: tony.sn@outlook.com
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tony.sn@outlook.com"
+    - label: "Blog"
+      icon: "fas fa-fw fa-link"
+      url: "https://7onynguyen.com"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-alt"
+      url: https://resume.7onynguyen.com
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: https://facebook.com/7onysn
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/7onylegit"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/t.o.n.y.1.2.1.1"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tony-sn"

@@ -1,0 +1,23 @@
+.banners {
+    // background: color url() position/bg-size bg-repeat, url() for second bg
+    background: url("../img/udemy-purple-intersect.svg") 0/30% no-repeat,
+        linear-gradient(61deg, $color-purple, $color-blue-1 41%); //blue start from 41%
+    background-blend-mode: overlay;
+    display: flex;
+    align-items: center;
+    height: 325px;
+    text-align: center;
+    h2 {
+        @include styleText($color-white-0, $fs-4, $fw-0);
+    }
+    p {
+        color: $color-white-0;
+        margin-bottom: 0;
+    }
+    button {
+        margin: $mg-0 + 5 0;
+    }
+    img {
+        cursor: pointer;
+    }
+}
