@@ -10,7 +10,12 @@
 @import "minimal-mistakes"; // main partials
 // @import "minimal-mistakes/helpers/image";
 
-// Custom CSS
+// Custom CSS for mint theme
 .pagination--pager:hover {
-  background-color: #67B8AC;
+  background-color: #67b8ac;
+}
+
+.page__meta a.page__taxonomy-item:hover {
+  color: #fff;
+  background-color: #67b8ac;
 }
