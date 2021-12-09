@@ -9,3 +9,8 @@
 // minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum" "sunrise"
 @import "minimal-mistakes"; // main partials
 // @import "minimal-mistakes/helpers/image";
+
+// Custom CSS
+.pagination--pager:hover {
+  background-color: #67B8AC;
+}
