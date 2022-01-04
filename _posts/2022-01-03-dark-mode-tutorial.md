@@ -95,7 +95,7 @@ UdemyMockup
 
 This part, we need to touch all components, or layouts that require dark colour, an example of this:
 
-```SCSS
+```scss
 // _variables.scss
 //*Dark Theme
 $color-dark-0: #152e4d;
