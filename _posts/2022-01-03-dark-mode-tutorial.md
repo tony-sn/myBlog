@@ -18,7 +18,7 @@ The world is getting crazy about "Dark Mode", and so are we. You can see "Dark T
 
 # What is Dark Mode?
 
-Dark Mode, or Dark Theme, actually is a bunch of CSS style rules, and is activated when users toggle a button, so that all these rules will be applied. Certainly we can build our site without the presence of Dark Mode, but giving another UI option for users is always welcome. Moreover, a dark screen also brings less eye strain than a bright one. We just need to setup everything methodically.
+Dark Mode, or Dark Theme, actually is a bunch of CSS style rules, and is activated when users toggle a button, so that all these rules will be applied. Certainly we can build our site without the presence of Dark Mode, but giving another UI option to users is always welcome. Moreover, a dark screen also brings less eye strain than a bright one. We just need to setup everything methodically.
 
 # Setup Dark Mode/Theme:
 
