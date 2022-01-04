@@ -88,9 +88,9 @@ UdemyMockup
 |  ├── Layouts                 # all components of the page: banner, footer, header..
 |  ├── Pages                   # Different pages with distinguished styles
 |  ├── Theme
-|  |  └── Dark                 # Where we include all dark colour to all layouts, components: _buttonDark.scss, _cardDark.scss
-|  ├── Vendors
-├── main.scss                  # main file, use SASS compilers to convert to normal CSS, or use node-sass
+|  |  ├── Dark                 # Where we include all dark colour to all layouts, components: _buttonDark.scss, _cardDark.scss
+|  ├── Vendors                 # Third-party libraries, styles go here
+├── main.scss                  # main file, use SASS compilers to convert to CSS, or use node-sass
 ```
 
 This part, we need to touch all components, or layouts that require dark colour, an example of this:
