@@ -4,10 +4,6 @@ title: "The Healthy Coder"
 excerpt: "A small project to monitor health and meal for programmers and coders, healthy life healthy code."
 header:
   teaser: /assets/images/posts/TheHealthyCoderPage4.png
-categories: React
-tags: SCSS Redux ReactJS
-toc_label: "Table of Contents"
-toc_icon: "paperclip"
 link: "https://thehealthycoder.netlify.app/"
 ---
 
