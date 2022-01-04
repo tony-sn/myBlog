@@ -3,7 +3,7 @@ layout: single
 title: "How to Create a Dark Theme"
 excerpt: "The world is getting crazy about \"Dark Mode\", and so are we. You can see \"Dark Theme\", \"Dark Mode\" toggler at almost any modern site and application now. Should we install it to ours?"
 date: 2022-01-03 11:06:53 +1000
-categories: How-to Web
+categories: How-to Web Theme
 tags: SASS CSS JS
 author_profile: true
 author: Tony Nguyen
