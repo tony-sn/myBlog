@@ -7,11 +7,11 @@ header:
 link: "https://thehealthycoder.netlify.app/"
 ---
 
-This project can be reached at [The Heathy Coder](https://thehealthycoder.netlify.app).
+This project can be reached at [The Heathy Coder](https://thehealthydev.netlify.app).
 
-![The Healthy Coder Landing Page](../assets/images/posts/TheHealthyCoderLandingPage.png){:.rounded.mx-auto.d-block}
+![The Healthy Coder Landing Page](../assets/images/posts/TheHealthyDevLandingPage.png){:.rounded.mx-auto.d-block}
 
-![The Healthy Coder API Result Page](../assets/images/posts/TheHealthyCoderPage4.png){:.rounded.mx-auto.d-block}
+![The Healthy Coder API Result Page](../assets/images/posts/TheHealthyDevPage4.png){:.rounded.mx-auto.d-block}
 
 ## Description
 
