@@ -4,10 +4,10 @@ title: "The Healthy Coder"
 excerpt: "A small project to monitor health and meal for programmers and coders, healthy life healthy code."
 header:
   teaser: /assets/images/posts/TheHealthyCoderPage4.png
-link: "https://thehealthycoder.netlify.app/"
+link: "https://thehealthydev.netlify.app/"
 ---
 
-This project can be reached at [The Heathy Coder](https://thehealthydev.netlify.app).
+This project can be reached at [The Heathy Dev](https://thehealthydev.netlify.app).
 
 ![The Healthy Coder Landing Page](../assets/images/posts/TheHealthyDevLandingPage.png){:.rounded.mx-auto.d-block}
 
@@ -15,7 +15,7 @@ This project can be reached at [The Heathy Coder](https://thehealthydev.netlify.
 
 ## Description
 
-A small project to monitor health and meal for programmers and coders, healthy life healthy code.
+A small project to monitor health and meal for programmers and developers, healthy life healthy code.
 
 ### Main Features
 
